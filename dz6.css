@@ -1,0 +1,162 @@
+.logo-img {
+  margin-top: 20px;
+  height: 50px;
+  width: 65px;
+
+  border-radius: 10px;
+  display: inline-block;
+}
+
+.link {
+  transition: 1s;
+  color: rgb(0, 0, 0);
+  margin-right: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none;
+}
+
+.link:hover {
+  color: rgb(34, 145, 189);
+  text-decoration: underline;
+}
+
+.item {
+  display: inline-block;
+}
+
+.header.header-1{
+  text-align: center; 
+  margin-top: 20px;
+  border: 2px solid black;
+}
+
+.header-col{
+  width: 300px;
+  text-align: left;
+  display: inline-block;
+}
+
+.header-col.header-col-center {
+  width: 300px;
+  text-align: center;
+  display: inline-block;
+}
+
+.header-col.header-col-right{
+  width: 300px;
+  text-align: right;
+  display: inline-block;
+}
+
+
+
+
+
+.circle {
+  margin-top: 100px;
+  height: 230px;
+  width: 230px;
+  left: 42%;
+  background-color: teal;
+  position: relative;
+  display: block;
+}
+
+
+
+
+
+
+.circle-small.circle-small-1 {
+  height: 60px;
+  width: 60px;
+  text-align: center;
+  line-height: 58px;
+  background-color: rgb(107, 102, 102);
+  border-radius: 20px;
+  position: absolute;
+  left: 10px;
+  right: 0px;
+  top: 20px;
+  bottom: 0px;
+  display: block;
+}
+
+.circle-small.circle-small-2 {
+  height: 60px;
+  width: 60px;
+  text-align: center;
+  line-height: 58px;
+  background-color: rgb(107, 102, 102);
+  border-radius: 20px;
+  position: absolute;
+  left: 170px;
+  right: 0px;
+  top: 170px;
+  bottom: 0px;
+  display: block;
+}
+
+.circle-small.circle-small-3 {
+  height: 60px;
+  width: 60px;
+  text-align: center;
+  line-height: 58px;
+  background-color: rgb(107, 102, 102);
+  border-radius: 20px;
+  position: absolute;
+  left: 120px;
+  right: 0px;
+  top: 0px;
+  bottom: 800px;
+  display: block;
+}
+
+
+
+
+
+.circle-small.circle-small-4 {
+  height: 60px;
+  width: 60px;
+  text-align: center;
+  line-height: 58px;
+  background-color: rgb(107, 102, 102);
+  border-radius: 20px;
+  position: absolute;
+  left: 170px;
+  right: 0px;
+  top: 0px;
+  bottom: 0px;
+  display: block;
+}
+
+.circle-small.circle-small-5 {
+  height: 60px;
+  width: 60px;
+  text-align: center;
+  line-height: 58px;
+  background-color: rgb(107, 102, 102);
+  border-radius: 20px;
+  position: absolute;
+  left: 170px;
+  right: 0px;
+  top: 0px;
+  bottom: 500px;
+  display: block;
+}
+
+.circle-small.circle-small-6 {
+  height: 60px;
+  width: 60px;
+  text-align: center;
+  line-height: 58px;
+  background-color: rgb(107, 102, 102);
+  border-radius: 20px;
+  position: absolute;
+  left: 170px;
+  right: 0px;
+  top: 0px;
+  bottom: 0px;
+  display: block;
+}
